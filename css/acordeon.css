@@ -1,0 +1,17 @@
+.acordeon{
+    width:90%;
+    max-width: 120em;
+    background-color: rosybrown;
+    padding: 2em;
+}
+.acordeon .despliegue{
+    background-color: red;
+    margin: 0 0 1em;
+    padding: 1em;
+}
+.acordeon .h2{
+    background-color: greenyellow;
+}
+.acordeon .contenido{
+    background-color: pink;
+}
